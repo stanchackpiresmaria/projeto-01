@@ -1,6 +1,21 @@
 .cabecalho{
-    background-color: darkblue
-    {
+    background-color: aqua;
+}
     
-        .principal{}
-        background-color:darkbue
+.principal{
+    background-color: cadetblue;
+    color:red;
+}
+
+ .roape{
+      background-color: black;
+      color: white;
+      text-align: center;
+}
+#imagem-jamal{
+    width: 400px;
+    border: 2px blueviolet double;
+}
+
+
+
