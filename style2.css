@@ -9,6 +9,8 @@
       background-color: crimson;
       columns: white
       margin: 50px;
-}
-#icone-rodapé{
-       with:30px
+} 
+#icone{
+       width: 50px;
+       border-radius :15px
+       border-style: double;
