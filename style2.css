@@ -7,10 +7,11 @@
       border-style: dashed;
       border-color: chocolate;
       background-color: crimson;
-      columns: white
+      color: white;
       margin: 50px;
 } 
 #icone{
        width: 50px;
        border-radius :15px
        border-style: double;
+}
